@@ -1,9 +1,9 @@
 {
-  "name": "nonamebot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "sigmaboy2019",
+  "version": "1.21.4",
+  "description": "AFK BOT",
   "main": "index.js",
-  "scripts": {
+  "scripts": {AFK}
     "start": "node index.js"
   },
   "author": "MyT",
